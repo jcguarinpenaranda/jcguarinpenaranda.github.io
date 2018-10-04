@@ -6,6 +6,9 @@ header:
       zh-Hant:  歸檔
     url:        /archive.html
   - titles:
+      en:       My CV | Hoja de vida
+    url:        /cv
+  - titles:
       en:       About
       zh:       关于
       zh-Hans:  关于
