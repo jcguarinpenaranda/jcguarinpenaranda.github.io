@@ -1,8 +1,8 @@
 ---
-title: My Resume | Hoja de vida
-key: 20180701
-tags: resume
-permalink: cv
+layout: article
+titles:
+  en: My CV | Hoja de vida
+key: cv-2
 ---
 
 ![Hello](/assets/images/me.jpg)
